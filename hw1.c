@@ -15,6 +15,7 @@ void task1(){
   		c++;  		
 	  }
 	  printf("\n");
+
   }
 }
 
