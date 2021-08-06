@@ -23,7 +23,7 @@ int main(){
 	while(key!=0){
 		
 		scanf("%d",&key);
-		//printf("111\n");
+		
 		switch(key){
 			
 			case 1:
